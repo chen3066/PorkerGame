@@ -7,7 +7,7 @@ package pokergame;
 
 /**
  *
- * @author zhang
+ * @author zhang siwei
  */
 public class Card {
     private int cardRank;
